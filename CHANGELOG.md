@@ -1,3 +1,7 @@
+
+### Added
+- Eyes-Date header for all requests in the long-running task process. [Trello 1756](https://trello.com/c/zqcGscs3)
+
 ## [4.10.0] - 2020-04-16
 ### Updated
 -  StartSession isNew handling. [Trello 1715](https://trello.com/c/DcVzWbeR/)
